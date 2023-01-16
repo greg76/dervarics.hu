@@ -9,7 +9,7 @@ class Intro:
         pyxel.init(160, 120, title="Twin Sectors", capture_sec=12)
         
         self.amplitude = 15
-        self.spacing = 3
+        self.spacing = 4
         self.title = (
             "Twin Sector Inc. is back! Greetings go to: TSC, Genesis, Refi, Csico and Ciekill!"
         )
